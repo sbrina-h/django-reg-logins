@@ -1,1 +1,1 @@
-# django-reg-logins
+# django-users
